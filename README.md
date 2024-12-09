@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 👨‍💻 All of my projects are available at [https://tejas7070.github.io/My_Portfolio/](https://tejas7070.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://tejas7070.github.io/My_Portfolio/](tejasau-portfolio.netlify.app/)
 
 - 💬 Ask me about **DSA,C,C++**
 
