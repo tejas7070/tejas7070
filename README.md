@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OeIEQ2xKxJRcQXD3xt43YC9FEVmOr4dZ/view?usp=drive_link](https://drive.google.com/file/d/1OeIEQ2xKxJRcQXD3xt43YC9FEVmOr4dZ/view?usp=drive_link)
 
-- ⚡ Fun fact **Did you know that the first computer bug was an actual bug? In 1947, a team of computer scientists found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They logged the incident as the "first actual case of bug being found" and the term "debugging" was born!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-ulawekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-ulawekar/" height="30" width="40" /></a>
